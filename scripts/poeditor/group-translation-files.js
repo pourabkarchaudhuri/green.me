@@ -2,7 +2,7 @@
 const fs = require("fs");
 
 // Languages
-const usedLanguages = ["en", "de", "fr", "sv", "pt", "es", "pl", "ru", "da", "zh", "ms"];
+const usedLanguages = ["en"];
 // Imports all files
 const toBeImported = {
   AppStore: "./app-store",
@@ -21,7 +21,6 @@ const toBeImported = {
   ActDetail: "../../app/screens/ActDetail/translations",
   Notifications: "../../app/screens/Notifications/translations",
   InfoModal: "../../app/screens/InfoModal/translations",
-  MyData: "../../app/screens/MyData/translations",
   MonthlyEmissions: "../../app/screens/MonthlyEmissions/translations",
   Languages: "../../app/screens/Languages/translations",
   RecurringEmissions: "../../app/screens/RecurringEmissions/translations",
@@ -63,7 +62,6 @@ usedLanguages.forEach((language) => {
     ...imports.ActDetail[language],
     ...imports.Notifications[language],
     ...imports.InfoModal[language],
-    ...imports.MyData[language],
     ...imports.MonthlyEmissions[language],
     ...imports.Languages[language],
     ...imports.Faq[language],

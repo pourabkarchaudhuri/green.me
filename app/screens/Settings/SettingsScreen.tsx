@@ -6,7 +6,7 @@ import * as WebBrowser from "expo-web-browser";
 import * as Linking from "expo-linking";
 
 import { ImagesAssets } from "constant";
-import { Button, Text, SocialMedia, ListItem } from "components";
+import { Button, Text, ListItem } from "components";
 import { t, platform } from "utils";
 import { navigate } from "navigation";
 import { NavStatelessComponent } from "interfaces";
@@ -138,7 +138,6 @@ const SettingsScreen: NavStatelessComponent = () => {
     </ScrollView>
   );
 };
-
 
 SettingsScreen.navigationOptions = navigationOptions();
 

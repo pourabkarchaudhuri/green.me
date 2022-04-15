@@ -74,9 +74,6 @@ const openSupportUs = (navigation) => (props = {}) => {
   navigation.push("SupportUs", props);
 };
 
-const openMyData = (navigation) => (props = {}) => {
-  navigation.push("MyData", props);
-};
 
 const openStorybook = (navigation) => (props = {}) => {
   navigation.push("Storybook", props);
@@ -112,7 +109,6 @@ const navigate = (navigation) => ({
   openMonthlyEmissions: navigateOneTime(openMonthlyEmissions(navigation)),
   openAddEmissionNavigator: navigateOneTime(openAddEmissionNavigator(navigation)),
   openSubCategorySelection: navigateOneTime(openSubCategorySelection(navigation)),
-  openMyData: navigateOneTime(openMyData(navigation)),
   openBarCodeScan: navigateOneTime(openBarCodeScan(navigation)),
   openComingSoonModal: navigateOneTime(openComingSoonModal(navigation)),
   openInfoModal: navigateOneTime(openInfoModal(navigation)),

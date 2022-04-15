@@ -14,7 +14,6 @@ const paths = [
   "app/screens/ActDetail/translations/",
   "app/screens/Notifications/translations/",
   "app/screens/InfoModal/translations/",
-  "app/screens/MyData/translations/",
   "app/screens/MonthlyEmissions/translations/",
   "app/screens/Languages/translations/",
   "app/screens/Faq/translations/",
