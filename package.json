@@ -12,8 +12,6 @@
     "test:watch": "jest --watchAll",
     "test": "TZ=GMT jest",
     "test:win": "bin/test.cmd",
-    "lint": "eslint --ext .js,.jsx,.ts,.tsx ./app",
-    "lint:fix": "eslint --ext .js,.jsx,.ts,.tsx ./app --fix",
     "typescript": "tsc --noEmit",
     "ci": "yarn lint && yarn typescript && yarn test --coverage",
     "storybook": "start-storybook -p 7007",
@@ -103,19 +101,9 @@
     "@types/react-test-renderer": "16.9.2",
     "@types/uuid": "3.4.6",
     "@types/webpack-env": "1.15.0",
-    "@typescript-eslint/eslint-plugin": "4.29.0",
-    "@typescript-eslint/parser": "4.29.0",
     "babel-loader": "8.1.0",
     "babel-plugin-module-resolver": "4.0.0",
     "babel-preset-expo": "8.3.0",
-    "eslint": "6.7.2",
-    "eslint-config-prettier": "6.12.0",
-    "eslint-import-resolver-typescript": "2.4.0",
-    "eslint-plugin-import": "2.22.1",
-    "eslint-plugin-jest": "23.8.2",
-    "eslint-plugin-prettier": "3.1.4",
-    "eslint-plugin-react": "7.17.0",
-    "eslint-plugin-react-hooks": "4.1.2",
     "front-matter": "3.1.0",
     "glob": "7.1.6",
     "husky": "4.2.5",
@@ -126,11 +114,6 @@
     "prompt-sync": "4.2.0",
     "react-native-storybook-loader": "1.8.1",
     "typescript": "4.3.5"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn ci"
-    }
   },
   "config": {
     "react-native-storybook-loader": {

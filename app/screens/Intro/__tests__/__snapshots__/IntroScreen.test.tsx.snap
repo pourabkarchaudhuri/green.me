@@ -40,7 +40,7 @@ exports[`renders correctly ComingSoon 1`] = `
         }
       }
     >
-      Welcome to NMF.earth 🌱
+      Welcome to green.me 🌱
     </Text.H3>
     <Text.Tertiary
       style={

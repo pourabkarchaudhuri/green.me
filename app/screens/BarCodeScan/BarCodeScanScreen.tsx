@@ -62,7 +62,7 @@ const BarCodeScanScreen = ({ language = "" }: LocalizationContextProps) => {
       Accept: "application/json",
       "Content-Type": "application/json",
       "User-Agent":
-        "NMF.earth - " + platformType + " - Version " + version + "-" + `${buildNumber}`,
+        "green.me - " + platformType + " - Version " + version + "-" + `${buildNumber}`,
     });
 
     fetch(`https://world.openfoodfacts.org/api/v0/product/${data}`, {

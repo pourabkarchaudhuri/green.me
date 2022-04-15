@@ -93,7 +93,7 @@
 	"EMISSION_ITEM_SCREEN_MITIGATED": "Mitigation",
 	"EMISSION_ITEM_SCREEN_IS_MITIGATED": "This emission has been mitigated",
 	"EMISSION_ITEM_SCREEN_IS_NOT_MITIGATED": "This emission hasn't been mitigated",
-	"INTRO_SCREEN_WELCOME": "Welcome to NMF.earth 🌱",
+	"INTRO_SCREEN_WELCOME": "Welcome to green.me 🌱",
 	"INTRO_SCREEN_CONTINUE_AND_ACCEPT_TERMS_OF_USE": "By proceeding, you are agreeing to our terms of use.",
 	"INTRO_SCREEN_TERMS_OF_USE": "Read terms of use",
 	"INTRO_SCREEN_I_AGREE": "I agree",
@@ -111,7 +111,7 @@
 	"ABOUT_SCREEN_GITHUB": "Github",
 	"SUPPORT_US_SCREEN_TITLE": "Support us!",
 	"SUPPORT_US_SCREEN_WHY_DONATE_TITLE": "Why you should consider supporting us",
-	"SUPPORT_US_SCREEN_WHY_DONATE_CONTENT": "NMF.earth is not for profit, we have only raised a small amount on Kickstarter and we keep working a lot on the project even if it's not financially sustainable. Besides that, we have many costs such as servers, domain name, softwares licences, apple developer account etc.",
+	"SUPPORT_US_SCREEN_WHY_DONATE_CONTENT": "green.me is not for profit, we have only raised a small amount on Kickstarter and we keep working a lot on the project even if it's not financially sustainable. Besides that, we have many costs such as servers, domain name, softwares licences, apple developer account etc.",
 	"SUPPORT_US_SCREEN_TITLE_CONSIDER_DONATE": "If you like this project, please consider donating a small amount to help us keep going!",
 	"SUPPORT_US_SCREEN_PLATFORM": "You can do so on Ko-fi.",
 	"MY_LOCATION_SCREEN_TITLE": "Location",
@@ -125,7 +125,7 @@
 	"NOTIFICATIONS_SCREEN_NOTIFICATION_BODY": "Here is a kindly reminder to add your emissions for this week.",
 	"INFO_MODAL_SCREEN_METHODOLOGY": "Methodology",
 	"MY_DATA_SCREEN_TITLE": "My Data",
-	"MY_DATA_SCREEN_BODY": "With NMF.earth, you own your data. It means that we don't save your data on any server and therefore that no one but you can access it. No security problem, your data never leaves your phone. However, it also means that you are in charge of saving your data in case you loose your phone for example. To do so, use the export button below to get your data and save it where ever you want to. When you want to import old data, just press the import button but be careful because it will also delete your old data.",
+	"MY_DATA_SCREEN_BODY": "With green.me, you own your data. It means that we don't save your data on any server and therefore that no one but you can access it. No security problem, your data never leaves your phone. However, it also means that you are in charge of saving your data in case you loose your phone for example. To do so, use the export button below to get your data and save it where ever you want to. When you want to import old data, just press the import button but be careful because it will also delete your old data.",
 	"MY_DATA_SCREEN_EXPORT_MY_DATA": "Export my data",
 	"MY_DATA_SCREEN_IMPORT_DATA": "Import data",
 	"MY_DATA_SCREEN_DELETE_ALL_MY_DATA": "Delete all my data",
@@ -216,7 +216,7 @@
 	"NO_EMISSION_COMPONENT_ADD_FIRST_EMISSION": "Add my first emission",
 	"PERMISSIONS_REQUEST_COMPONENT_OPEN_SETTINGS": "Open settings",
 	"PERMISSIONS_REQUEST_COMPONENT_CAMERA_TITLE": "No access to camera",
-	"PERMISSIONS_REQUEST_COMPONENT_CAMERA_SUBTITLE": "Please give NMF.earth app access to camera in your phone settings to use this feature.",
+	"PERMISSIONS_REQUEST_COMPONENT_CAMERA_SUBTITLE": "Please give green.me app access to camera in your phone settings to use this feature.",
 	"PERMISSIONS_REQUEST_COMPONENT_NOTIFICATION_TITLE": "No permission to send notifications",
-	"PERMISSIONS_REQUEST_COMPONENT_NOTIFICATION_SUBTITLE": "Please give NMF.earth app permission to send you notifications in your phone settings to use this feature."
+	"PERMISSIONS_REQUEST_COMPONENT_NOTIFICATION_SUBTITLE": "Please give green.me app permission to send you notifications in your phone settings to use this feature."
 }

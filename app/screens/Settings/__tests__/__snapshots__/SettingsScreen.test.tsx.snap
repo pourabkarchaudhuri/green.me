@@ -206,7 +206,7 @@ exports[`SettingsScreen renders correctly 1`] = `
       <Text.Secondary
         numberOfLines={1}
       >
-        NMF.earth
+        green.me
       </Text.Secondary>
       <Ionicons
         color="#9CA6A0"
