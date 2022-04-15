@@ -139,6 +139,7 @@ const SettingsScreen: NavStatelessComponent = () => {
   );
 };
 
+
 SettingsScreen.navigationOptions = navigationOptions();
 
 export default SettingsScreen;
