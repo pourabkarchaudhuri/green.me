@@ -15,4 +15,5 @@ export default {
   black: "#000000",
   black70: "#575757",
   primary10: "#E7F3EB",
+  purple: "#800080",
 };
